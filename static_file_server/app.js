@@ -1,6 +1,6 @@
 var http 	= require("http"),
-		path 	= require("path"),
-		fs 		= require("fs");
+    path 	= require("path"),
+    fs 		= require("fs");
 
 http.createServer(function (request, response){
 
