@@ -1,0 +1,11 @@
+body {
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+}
+
+h1, h2 {
+	margin: 2px;
+}
+
+small {
+	font-family: Courier;
+}
